@@ -9,8 +9,7 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/7928299"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
